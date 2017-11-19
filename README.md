@@ -2,6 +2,10 @@
 
 我们提供可供参考的代码示例来供开发者阅读，同时提供效果演示。
 
+## 演示地址
+
+[https://51nb.github.io/miox-demo-basic-use/build/](https://51nb.github.io/miox-demo-basic-use/build/)
+
 ## 克隆项目
 
 ```bash
