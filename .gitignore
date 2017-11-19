@@ -8,5 +8,4 @@ coverage
 perf
 *.map
 npm-debug.log
-build
 .vscode
