@@ -13,13 +13,13 @@
     "build": "NODE_ENV=production node_modules/.bin/webpack --config config/webpack.web.pro.config.js -p --progress --hide-modules"
   },
   "dependencies": {
-    "miox": "^5.1.12",
+    "miox": "^5.1.13",
     "miox-animation": "^5.1.12",
-    "miox-compose": "^5.1.12",
-    "miox-css": "^5.1.12",
-    "miox-router": "^5.1.12",
+    "miox-compose": "^5.1.13",
+    "miox-css": "^5.1.13",
+    "miox-router": "^5.1.13",
     "miox-vue2x": "^5.1.12",
-    "miox-vue2x-classify": "^5.1.12",
+    "miox-vue2x-classify": "^5.1.13",
     "vue": "^2.5.3"
   },
   "devDependencies": {
