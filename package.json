@@ -14,11 +14,11 @@
   },
   "dependencies": {
     "miox": "^5.1.13",
-    "miox-animation": "^5.1.12",
+    "miox-animation": "^5.1.13",
     "miox-compose": "^5.1.13",
     "miox-css": "^5.1.13",
     "miox-router": "^5.1.13",
-    "miox-vue2x": "^5.1.12",
+    "miox-vue2x": "^5.1.13",
     "miox-vue2x-classify": "^5.1.13",
     "vue": "^2.5.3"
   },
