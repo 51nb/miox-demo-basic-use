@@ -13,13 +13,13 @@
     "build": "NODE_ENV=production node_modules/.bin/webpack --config config/webpack.web.pro.config.js -p --progress --hide-modules"
   },
   "dependencies": {
-    "miox": "^5.1.11",
-    "miox-animation": "^5.1.11",
-    "miox-compose": "^5.1.11",
-    "miox-css": "^5.1.11",
-    "miox-router": "^5.1.11",
-    "miox-vue2x": "^5.1.11",
-    "miox-vue2x-classify": "^5.1.11",
+    "miox": "^5.1.12",
+    "miox-animation": "^5.1.12",
+    "miox-compose": "^5.1.12",
+    "miox-css": "^5.1.12",
+    "miox-router": "^5.1.12",
+    "miox-vue2x": "^5.1.12",
+    "miox-vue2x-classify": "^5.1.12",
     "vue": "^2.5.3"
   },
   "devDependencies": {
@@ -35,7 +35,7 @@
     "babel-plugin-transform-vue-jsx": "^3.5.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "miox-vue2x-webpack-config": "^5.1.11",
+    "miox-vue2x-webpack-config": "^5.1.12",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.4"
   }
