@@ -3,10 +3,10 @@
     <div class="logo center">
       <img src="http://7xtj22.com1.z0.glb.clouddn.com/miox-120x120.svg" width="50%" />
       <h1>Miox实战 - 基础使用</h1>
-      <p class="tip">请使用chrome收集模式观看，或者手机上直接浏览。</p>
+      <p class="tip">请使用chrome手机模式观看，或者手机上直接浏览。</p>
     </div>
     <section>
-      <ol>
+      <ol> 
         <li>
           <div class="title">使用`Push`行为跳转页面：</div>
           <ul>
